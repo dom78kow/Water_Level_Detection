@@ -149,6 +149,16 @@ Maximum ADC value for HIGH state:
 
 (3.37 / 4.2) × 1023 ≈ 816
 
+Typical values:
+
+    LOW state: ~0 V
+    HIGH state: ~3.37 V
+    Arduino Vcc: ~5.0 V (regulated 5V)
+
+Maximum ADC value for HIGH state:
+
+(3.37 / 5.0) × 1023 ≈ 690
+
 ---
 
 ## Safety Notes
